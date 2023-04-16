@@ -3,7 +3,6 @@ if (A_IsAdmin != true) {
   ExitApp
 }
 
-
 Menu, Tray, Icon , Icon.ico, 1, 1
 Menu, Tray, Add, Hotkeys, ShowGui
 
